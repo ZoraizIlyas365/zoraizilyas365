@@ -2,7 +2,7 @@
 
 🚀 **React Native Developer | Mobile App Specialist | Problem Solver**  
 
-I’m a passionate **React Native Developer** with 4+ years of experience crafting high-quality mobile applications for iOS and Android. Skilled in building **scalable, performant, and user-friendly apps**, I enjoy turning ideas into products that make a difference.  
+I’m a passionate **React Native Developer** with years of experience crafting high-quality mobile applications for iOS and Android. Skilled in building **scalable, performant, and user-friendly apps**, I enjoy turning ideas into products that make a difference.  
 
 - 🔧 **Expertise:** React Native, Redux Toolkit, TypeScript, JavaScript, Firebase, REST APIs  
 - 🎯 **Focus:** Creating robust mobile solutions with excellent UI/UX, real-time features, and smooth deployments  
@@ -20,7 +20,7 @@ I’m a passionate **React Native Developer** with 4+ years of experience crafti
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 
 ---
 
@@ -57,8 +57,7 @@ I’m a passionate **React Native Developer** with 4+ years of experience crafti
 
 ---
 
-## 🎓 Education & Certifications  
-- **BS in Computer Science** – Lahore Garrison University (2018 – 2022)  
+## 🎓 Certifications  
 - Certifications: React Native, Vue.js, Agile Development  
 
 ---
