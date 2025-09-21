@@ -21,7 +21,6 @@ I’m a passionate **React Native Developer** with years of experience crafting 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-
 ---
 
 ## 💼 Professional Experience  
@@ -62,6 +61,13 @@ I’m a passionate **React Native Developer** with years of experience crafting 
 
 ---
 
+## 📊 GitHub Stats & Activity  
+
+![Zoraiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoraizilyas&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoraizilyas&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=zoraizilyas&theme=radical&hide_border=false)  
+
+---
+
 ✨ *Always eager to learn, collaborate, and build mobile apps that impact lives.*  
 📩 Reach me at: **[zoraizilyas@gmail.com](mailto:zoraizilyas@gmail.com)**  
-
